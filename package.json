@@ -1,0 +1,13 @@
+{
+    "name": "elephant-capriccio",
+    "description": "Elephant Capriccio",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": {},
+    "devDependencies": {
+        "mocha": "^3.2.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
